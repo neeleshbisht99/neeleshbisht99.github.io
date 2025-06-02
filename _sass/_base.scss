@@ -505,13 +505,46 @@ footer.sticky-bottom {
 
 .header-bar {
   border-bottom: 1px solid var(--global-divider-color);
-  text-align: center;
-  padding-top: 2rem;
+  text-align: left;
   padding-bottom: 3rem;
 
   h1 {
     color: var(--global-theme-color);
-    font-size: 5rem;
+    font-size: 2rem;
+    font-weight: 800;
+  }
+  div {
+    color: var(--global-theme-color);
+    font-size: 1rem;
+    font-weight: 350;
+    margin-top: 1.5em
+  }
+}
+
+.cmudrlrg-header
+{ 
+  margin-top: 3rem;
+  h2 {
+    font-weight: 500;
+  }
+}
+
+.custom-topic-list h4 {
+  font-weight: 400;
+}
+
+.custom-topic-list .resource-links a {
+  text-decoration: underline;
+  color: #007bff;
+}
+
+.custom-topic-list .resource-links a:hover {
+  text-decoration: none;
+}
+
+.organizers {
+  a {
+    text-decoration: underline;
   }
 }
 

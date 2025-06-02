@@ -123,9 +123,18 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
-permalink: /blog/:year/:title/
+blog_name: CMU DRL RG # blog_name will be displayed in your blog page
+blog_description: |
+  CMU Deep Reinforcement Learning Reading Group. A space to explore Deep Reinforcement Learning together.
+
+  Deep Reinforcement Learning (Deep RL) is how systems like AlphaGo and OpenAI Five learn to make decisions over time. It combines deep learning with reinforcement learning to train agents that act, explore, and improve through experience.
+
+  We meet weekly at CMU. Each week, we pick a topic in Deep RL, read a few papers, discuss the ideas, and sometimes try out small experiments, walk through code, or work on projects in that area.
+  
+  Everyone is welcome, regardless of background. The goal is to understand ideas (because ideas don't die) and to learn — not to publish or build commercialized projects.
+
+  We believe in DRL. Let's explore.
+# permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
@@ -174,6 +183,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  drltopics:
+    output: true
+    permalink: /cmudrlrg/:name/
 
 announcements:
   enabled: true

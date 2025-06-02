@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Software Engineer</a>. ML Researcher. Designer.
+subtitle: <a href='#'>ML Researcher</a>. Engineer.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
@@ -15,7 +15,7 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
@@ -25,14 +25,9 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
 
-
-I currently work at [AiDash](https://www.aidash.com/), a geospatial AI startup.
-
-
-
-
-
 <br>
-I aspire to develop software and hardware products that directly or indirectly contribute to the welfare of humanity.
+I’m a Master’s student at Carnegie Mellon University, specializing in Systems and Deep Reinforcement Learning.
 
-I'm a generalist who enjoys working on systems end-to-end, utilizing both software engineering and machine learning skills. I strongly believe that to build great products, one needs to intimately understand the entire system from beginning to end.
+Previously, I worked at [AiDash](https://www.aidash.com/), a geospatial AI startup, where I was part of the ML data platform team, building scalable backend systems and infrastructure.
+
+I’m particularly interested in working in Deep Reinforcement Learning and machine learning more broadly, across both research and engineering.
