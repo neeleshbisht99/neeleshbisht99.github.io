@@ -7,7 +7,7 @@ subtitle: <a href='#'>ML Researcher</a>. Engineer.
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
@@ -25,9 +25,20 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
 
-<br>
-I’m a Master’s student at Carnegie Mellon University, specializing in Systems and Deep Reinforcement Learning.
+I’m a Master’s student at Carnegie Mellon University, where I do research in ML interpretability at the School of Computer Science. My work focuses on understanding what neural networks learn — building methods that surface meaning in model representations.
 
-Previously, I worked at [AiDash](https://www.aidash.com/), a geospatial AI startup, where I was part of the ML data platform team, building scalable backend systems and infrastructure.
+Before CMU, I spent three years at [AiDash](https://www.aidash.com/) as an early engineer, building distributed data systems and infrastructure for large-scale geospatial workloads, as well as their geospatial web product.
 
-I’m particularly interested in working in Deep Reinforcement Learning and machine learning more broadly, across both research and engineering.
+I like working at the intersection of research and systems: understanding models deeply, and building the infrastructure that makes that work possible.
+
+<hr style="width: 60px; border-top: 1px solid #ccc; margin: 60px auto 40px auto;">
+
+## Selected Work(s)
+
+**CCDiff: Inverse-CCA for Discovering Visual Differences in Natural Language** \[Link\]<br>
+Neelesh Bisht, X. Li, M.R. Uddin, Z. Li, Y. Liu, M. Xu<br>
+*Accepted at ICML EMMQA Workshop 2026; Submitted to NeurIPS 2026*
+
+**[DiffCAM: Data-Driven Saliency Maps by Capturing Feature Differences](https://cvpr.thecvf.com/virtual/2025/poster/32489)**<br>
+X. Li, Q. Zhao, Neelesh Bisht, M.R. Uddin, J.Y. Kim, B. Zhang, M. Xu<br>
+*CVPR 2025 (Highlights, Top 2.6%)*

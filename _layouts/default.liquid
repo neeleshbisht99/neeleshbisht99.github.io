@@ -21,7 +21,7 @@
     {% include header.liquid %}
 
     <!-- Content -->
-    <div class="container mt-5" role="main">
+    <div class="container mt-2" role="main">
       {% if page.toc and page.toc.sidebar %}
         {% if page.toc.sidebar == 'right' %}
           <div class="row">
@@ -48,7 +48,7 @@
     </div>
 
     <!-- Footer -->
-    {% include footer.liquid %}
+    {% comment %}{% include footer.liquid %}{% endcomment %}
 
     <!-- JavaScripts -->
     {% include scripts/jquery.liquid %}

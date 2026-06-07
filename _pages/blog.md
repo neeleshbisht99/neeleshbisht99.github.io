@@ -3,7 +3,7 @@ layout: no-header
 hide_header: true
 permalink: /cmudrlrg/
 title: CMU DRL RG
-nav: true
+nav: false
 nav_order: 1
 # pagination:
 #   enabled: true
